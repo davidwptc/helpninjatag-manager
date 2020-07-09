@@ -15,5 +15,5 @@
 homepage: "https://helpninja.com"
 documentation: "https://docs.helpninja.com"
 versions:
-  - sha: b67919932f9453ac6957e91722ba8412bdcf6c14
+  - sha: e276e6458052655cfaed853590b67e343006fdd0
     changeNotes: Initial Version
